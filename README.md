@@ -2,12 +2,10 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:8B5CF6,100:4338CA&text=Tanushree%20Balakumar&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Enthusiast%20•%20Flutter%20Developer%20•%20B.Tech%20IT%20Student&descAlignY=60&descSize=18"/>
-
 <br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Software+Engineering+Enthusiast;Flutter+Developer;Full+Stack+Learner;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New"/>
 
-<br><br>
+<br>
 
 <a href="https://tanushree-portfolio-khaki.vercel.app">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge"/>
@@ -27,8 +25,6 @@
 
 </div>
 
----
-
 # 👩🏻‍💻 About Me
 
 ```console
@@ -44,7 +40,6 @@ tanushree@github:~$ whoami
 
 > I enjoy transforming ideas into real-world applications—from responsive websites to Flutter mobile apps and AI-powered solutions. I love learning by building, continuously improving my problem-solving skills, and creating software that's clean, practical, and user-focused.
 
----
 
 # Tech Stack
 
@@ -63,7 +58,6 @@ tanushree@github:~$ whoami
 
 </div>
 
----
 
 <details open>
 <summary><b>🪨 RockEx AI • AI-Based Rockfall Prediction & Early Warning System</b></summary>
@@ -87,8 +81,6 @@ tanushree@github:~$ whoami
 - 📍 Real-time monitoring
 - 🔔 Intelligent alert system
 - 📈 Historical analytics
-
-**🔗 Repository:** *(Add your GitHub repository link here)*
 
 </details>
 
@@ -117,7 +109,7 @@ tanushree@github:~$ whoami
 - 📱 Responsive interface
 - 🗄️ MySQL database integration
 
-**🔗 Repository:** *(Add your GitHub repository link here)*
+**🔗 Repository:** https://github.com/TanushreeBalakumar/FoodForward
 
 </details>
 
@@ -172,7 +164,7 @@ tanushree@github:~$ whoami
 - 📐 Responsive layout
 - 🚀 Flutter best practices
 
-**🔗 Repository:** *(Add your GitHub repository link here)*
+**🔗 Repository:** https://github.com/TanushreeBalakumar/swiggyUI-flutter
 
 </details>
 
@@ -239,11 +231,6 @@ currently_learning:
   - State Management
   - Data Structures & Algorithms (Java)
 
-currently_building:
-  - RockEx AI
-  - Flutter Projects
-  - Personal Portfolio
-
 looking_for:
   - Software Engineering Internship
   - Flutter Developer Internship
@@ -295,10 +282,6 @@ interests:
 
 </div>
 
-> **Note:** This animation requires a GitHub Actions workflow. I'll show you how to set it up after you finish the README.
-
----
-
 # 🤝 Let's Connect
 
 <div align="center">
@@ -320,9 +303,6 @@ interests:
 </a>
 
 </div>
-
----
-
 <div align="center">
 
 ## 💜 Thanks for Visiting!
