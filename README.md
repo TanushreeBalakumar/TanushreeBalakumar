@@ -102,27 +102,6 @@ interests:
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushreeBalakumar&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 💣 Bomberman Contribution Graph
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/TanushreeBalakumar/TanushreeBalakumar/output/bomberman-contribution-graph-dark.svg"
-    alt="Bomberman Contribution Graph"
-    width="100%">
-</div>
-
 # 🤝 Let's Connect
 
 <div align="center">
